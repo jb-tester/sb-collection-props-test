@@ -1,0 +1,16 @@
+demo:
+  people:
+    - firstName: Wolfgang Amadeus
+      lastName: Mozart
+    - first-name: Ludwig
+      last-name: Beethoven
+    - first-name:  Sergey
+      last-name: Prokofiev
+  enums:
+     - camelCase
+     - camel-case
+     - camel_case
+     - withUnderscore
+     - with-underscore
+     - with_underscore
+     - normal

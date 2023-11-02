@@ -1,0 +1,6 @@
+demo:
+  people:
+    - first-name: Lev
+      last-name: Tolstoy
+    - last-name: Dostoevsky
+      first-name: Fedor
